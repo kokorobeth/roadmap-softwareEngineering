@@ -20,12 +20,12 @@ Stack utama:
 
 📅 BULAN 1 — Java + SQL
 Minggu 1
-- [] Java fundamental:
-Variable & data types
-Conditional
-Loop
-Method
-Array
+- [ ] Java fundamental:
+- [ ] Variable & data types
+- [ ] Conditional
+- [ ] Loop
+- [ ] Method
+- [ ] Array
 String
 OOP
 Minggu 2
