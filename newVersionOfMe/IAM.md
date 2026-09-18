@@ -19,12 +19,12 @@ Stack utama:
 *Java fundamental* :
 
 - [x] Variable & data types
-- [ ] Conditional
-- [ ] Loop
-- [ ] Method
+- [x] Conditional
+- [x] Loop
+- [x] Method
 - [x] Array
 - [x] String
-- [ ] OOP
+- [x] OOP dasar
 
 
 **Minggu 2**
