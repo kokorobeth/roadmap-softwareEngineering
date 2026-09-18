@@ -18,12 +18,12 @@ Stack utama:
 
 *Java fundamental* :
 
-- [ ] Variable & data types
+- [x] Variable & data types
 - [ ] Conditional
 - [ ] Loop
 - [ ] Method
-- [ ] Array
-- [ ] String
+- [x] Array
+- [x] String
 - [ ] OOP
 
 
@@ -82,6 +82,7 @@ _Fitur_:
 *Jangan terlalu fokus pada tampilan. Fokus pada logic + database.*
 
 📅 **BULAN 2 — Spring Boot**
+
 *Ini bulan yang sangat penting.*
 
 **Minggu 5**
