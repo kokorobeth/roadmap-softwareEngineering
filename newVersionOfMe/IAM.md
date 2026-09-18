@@ -1,11 +1,6 @@
 <details>
 <summary>Learning, Managing, & Practicing</summary>
 
-Saya buatkan roadmap 6 bulan yang realistis dengan asumsi kamu belajar sekitar 2–3 jam per hari, 5–6 hari per minggu.
-
-
-Karena kamu sudah pernah belajar Java, Spring Boot, Docker, SQL, dan React, kita tidak perlu mengulang semuanya dari nol. Fokusnya adalah membentuk satu skill stack yang bisa dijual ke perusahaan.
-
 
 🎯 Target setelah 6 bulan
 Stack utama:
@@ -18,89 +13,119 @@ Stack utama:
 - Backend Engineer
 - Kubernetes, Microservices, dan Laravel kita jadikan tahap berikutnya, bukan prioritas awal.
 
-📅 BULAN 1 — Java + SQL
-Minggu 1
-- [ ] Java fundamental:
+📅 **BULAN 1 — Java + SQL**
+**Minggu 1**
+
+*Java fundamental* :
+
 - [ ] Variable & data types
 - [ ] Conditional
 - [ ] Loop
 - [ ] Method
 - [ ] Array
-String
-OOP
-Minggu 2
-Java OOP lebih dalam:
-Class & Object
-Inheritance
-Encapsulation
-Polymorphism
-Interface
-Abstract class
-Exception handling
-Minggu 3
-Java modern:
-Collections
-List / Set / Map
-Generics
-Lambda
-Stream API
-Optional
-Minggu 4
-SQL:
-SELECT
-WHERE
-JOIN
-GROUP BY
-HAVING
-Subquery
-Index
-Transaction
-Normalization
-🎯 Project bulan 1
-Buat:
-Employee Management System
-Java + MySQL/PostgreSQL.
-Fitur:
-CRUD employee
-Department
-Search
-Filtering
-Sorting
-Jangan terlalu fokus pada tampilan. Fokus pada logic + database.
-📅 BULAN 2 — Spring Boot
-Ini bulan yang sangat penting.
-Minggu 5
-Spring Boot:
-Project structure
-Dependency Injection
-Controller
-Service
-Repository
-Configuration
-Maven/Gradle
-Minggu 6
-REST API:
-GET
-POST
-PUT
-PATCH
-DELETE
-Pelajari juga:
-DTO
-Request/Response
-Validation
-Exception handling
-HTTP status code
-Minggu 7
-Database:
-Spring Data JPA
-Hibernate
-Entity
-Relationship
-One-to-One
-One-to-Many
-Many-to-Many
-Pagination
+- [ ] String
+- [ ] OOP
+
+
+**Minggu 2**
+
+*Java OOP lebih dalam*:
+
+- [ ] Class & Object
+- [ ] Inheritance
+- [ ] Encapsulation
+- [ ] Polymorphism
+- [ ] Interface
+- [ ] Abstract class
+- [ ] Exception handling
+
+**Minggu 3**
+
+*Java modern*:
+
+- [ ] Collections
+- [ ] List / Set / Map
+- [ ] Generics
+- [ ] Lambda
+- [ ] Stream API
+- [ ] Optional
+
+**Minggu 4**
+
+*SQL*:
+
+- [ ] SELECT
+- [ ] WHERE
+- [ ] JOIN
+- [ ] GROUP BY
+- [ ] HAVING
+- [ ] Subquery
+- [ ] Index
+- [ ] Transaction
+- [ ] Normalization
+
+🎯 **Project bulan 1**
+
+*Buat* :
+
+**Employee Management System**
+**Java + MySQL/PostgreSQL**
+
+_Fitur_:
+
+- CRUD employee
+- Department
+- Search
+- Filtering
+- Sorting
+
+*Jangan terlalu fokus pada tampilan. Fokus pada logic + database.*
+
+📅 **BULAN 2 — Spring Boot**
+*Ini bulan yang sangat penting.*
+
+**Minggu 5**
+
+*Spring Boot*:
+
+- [ ] Project structure
+- [ ] Dependency Injection
+- [ ] Controller
+- [ ] Service
+- [ ] Repository
+- [ ] Configuration
+- [ ] Maven/Gradle
+
+**Minggu 6**
+
+*REST API* :
+- [ ] GET
+- [ ] POST
+- [ ] PUT
+- [ ] PATCH
+- [ ] DELETE
+
+*Pelajari juga:*
+
+- [ ] DTO
+- [ ] Request/Response
+- [ ] Validation
+- [ ] Exception handling
+- [ ] HTTP status code
+
+**Minggu 7**
+
+*Database:*
+
+- [ ] Spring Data JPA
+- [ ] Hibernate
+- [ ] Entity
+- [ ] Relationship
+- [ ] One-to-One
+- [ ] One-to-Many
+- [ ] Many-to-Many
+- [ ] Pagination
+
 Minggu 8
 Security:
 Spring Security
@@ -109,6 +134,7 @@ JWT
 Authentication
 Authorization
 Role USER / ADMIN
+
 🎯 Project bulan 2
 Mulai project yang akan terus kamu kembangkan sampai bulan 6:
 Banking / E-Wallet System
