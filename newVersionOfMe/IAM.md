@@ -34,10 +34,10 @@ Stack utama:
 
 - [x] Class & Object
 - [x] Inheritance
-- [ ] Encapsulation
+- [x] Encapsulation
 - [x] Polymorphism
 - [x] Interface
-- [ ] Abstract class
+- [x] Abstract class
 - [ ] Exception handling
 
 **Minggu 3**
