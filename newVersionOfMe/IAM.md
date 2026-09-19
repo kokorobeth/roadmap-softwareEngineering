@@ -14,6 +14,7 @@ Stack utama:
 - Kubernetes, Microservices, dan Laravel kita jadikan tahap berikutnya, bukan prioritas awal.
 
 📅 **BULAN 1 — Java + SQL**
+
 **Minggu 1**
 
 *Java fundamental* :
@@ -31,11 +32,11 @@ Stack utama:
 
 *Java OOP lebih dalam*:
 
-- [ ] Class & Object
-- [ ] Inheritance
+- [x] Class & Object
+- [x] Inheritance
 - [ ] Encapsulation
-- [ ] Polymorphism
-- [ ] Interface
+- [x] Polymorphism
+- [x] Interface
 - [ ] Abstract class
 - [ ] Exception handling
 
