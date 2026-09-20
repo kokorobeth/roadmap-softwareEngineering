@@ -38,7 +38,7 @@ Stack utama:
 - [x] Polymorphism
 - [x] Interface
 - [x] Abstract class
-- [ ] Exception handling
+- [x] Exception handling
 
 **Minggu 3**
 
