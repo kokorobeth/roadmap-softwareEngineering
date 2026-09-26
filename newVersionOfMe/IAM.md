@@ -45,7 +45,7 @@ Stack utama:
 *Java modern*:
 
 - [x] Collections
-- [ ] List / Set / Map
+- [x] List / Set / Map
 - [x] Generics
 - [ ] Lambda
 - [ ] Stream API
