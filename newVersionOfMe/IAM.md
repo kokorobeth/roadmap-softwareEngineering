@@ -47,7 +47,7 @@ Stack utama:
 - [x] Collections
 - [x] List / Set / Map
 - [x] Generics
-- [ ] Lambda
+- [x] Lambda
 - [ ] Stream API
 - [ ] Optional
 
