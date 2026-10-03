@@ -48,7 +48,7 @@ Stack utama:
 - [x] List / Set / Map
 - [x] Generics
 - [x] Lambda
-- [ ] Stream API
+- [x] Stream API
 - [ ] Optional
 
 **Minggu 4**
